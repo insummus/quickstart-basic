@@ -34,7 +34,7 @@
     <div id="calmgb" class="calm-background"></div>
     <div class="container">
         <div class="row text-center task-header">
-            <h2>Task Manager v12.0</h2>
+            <h2>Douzon - Nutanix Calm Demo</h2>
         </div>
     </div>
     @yield('content')
